@@ -1,0 +1,1 @@
+npm run start -> to run server locally.
